@@ -12,4 +12,4 @@ Use the following example requests in the command line to practice using curl re
 * For a `PATCH` request, enter `curl --request PATCH http://localhost:4567/messages/1 --data "message=I am number one thousand"`
 * For a `DELETE` request, entert `curl --request DELETE http://localhost:4567/messages/25`
 
-Running `ruby weather.rb` will use a GET request from an external website to display the current weather for Boston in the terminal.
+Running `ruby weather.rb` will use a `GET` request from an external website to display the current weather for Boston in the terminal.
